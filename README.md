@@ -1,11 +1,11 @@
 # PyCon India 2023
 
 
-## Tentative Event Dates: 29th Sep - 2rd Oct, 2023
+## Tentative Event Dates:
 
-- Workshop: TBD
-- Conference: TBD
-- DevSprint: TBD
+- Workshop: 29th Sep, 2023
+- Conference: 30th Sep - 1st Oct, 2023
+- DevSprint: 2nd Oct, 2023
 
 ## Conference Structure
 - TBD
@@ -14,7 +14,6 @@
 
 * Conference Chair: Sanchit Balchandani
 * Conference Co-Chairs:
-    - 
 * Emeritus Chair: Chandan Kumar
 * Volunteers Manager: TBD
 
