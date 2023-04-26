@@ -14,6 +14,8 @@
 
 * Conference Chair: [Sanchit Balchandani](https://pyconindia.zulipchat.com/#narrow/pm-with/231358-Sanchit-Balchandani)
 * Conference Co-Chairs:
+  - [Kalyan Prasad](https://pyconindia.zulipchat.com/#narrow/pm-with/270412-Kalyan-Prasad)
+  - [Snehith Allamraju](https://pyconindia.zulipchat.com/#narrow/pm-with/609119-Snehith-Allamraju)
 * Emeritus Chair: [Chandan Kumar](https://pyconindia.zulipchat.com/#narrow/pm-with/232013-Chandan-Kumar-(raukadah))
 * Volunteers Manager: TBD
 
@@ -37,6 +39,7 @@
 - Meeting:
 - Chair: [Bharat Saraswat](https://pyconindia.zulipchat.com/#narrow/pm-with/231146-Bharat-Saraswat)
 - Shadow:
+  - [Priyanshu Krishnan](https://pyconindia.zulipchat.com/#narrow/pm-with/603863-Priyanshu-Krishnan)
 - Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/226092-wg.2Ftechnology
 
 ### Promotions/Communications
@@ -44,6 +47,7 @@
 - Meeting:
 - Chair: [Bhushan Kapkar](https://pyconindia.zulipchat.com/#narrow/pm-with/608047-BHUSHAN-KAPKAR)
 - Shadow:
+  - [Amritha Madam](https://pyconindia.zulipchat.com/#narrow/pm-with/608219-Amritha-Madam)
 - Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/236702-wg.2Fcommunications
 
 ### Mentorship
@@ -65,6 +69,7 @@
 - Meeting:
 - Chair: [Aravind Sekar](https://pyconindia.zulipchat.com/#narrow/pm-with/270428-Aravind-Sekar)
 - Shadow:
+  - [Mehboob Subuhani](https://pyconindia.zulipchat.com/#narrow/pm-with/319016-Mehaboob-Subuhani)
 - Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/226098-wg.2Fdesign
 
 ### Content
@@ -79,19 +84,20 @@
 - Meeting:
 - Chair: [Snehith Allamraju](https://pyconindia.zulipchat.com/#narrow/pm-with/609119-Snehith-Allamraju)
 - Shadow:
+  - [Abhishek Mishra](https://pyconindia.zulipchat.com/#narrow/pm-with/607971-Abhishek-mishra)
 - Zulip Stream:
 
 ### R&D (brainstorm new ideas like: poster presentation, digital swags)
 
 - Meeting:
-- Chair:
+- Chair: [Bhanu K](https://pyconindia.zulipchat.com/#narrow/pm-with/335077-Bhanu-K)
 - Shadow:
 - Zulip Stream:
 
 ### Finance & Tickets
 
 - Meeting:
-- Chair: 
+- Chair: [Ramanathan Ramakrishnamoorthy](https://pyconindia.zulipchat.com/#narrow/pm-with/231811-Ramanathan-R)
 - Shadow:
 - Zulip Stream:
 
@@ -105,6 +111,6 @@
 ### Code of Conduct
 
 - Meeting:
-- Chair:
+- Chair: [Bhanu K](https://pyconindia.zulipchat.com/#narrow/pm-with/335077-Bhanu-K)
 - Shadow:
 - Zulip Stream:
