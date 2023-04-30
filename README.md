@@ -17,7 +17,7 @@
   - [Kalyan Prasad](https://pyconindia.zulipchat.com/#narrow/pm-with/270412-Kalyan-Prasad)
   - [Snehith Allamraju](https://pyconindia.zulipchat.com/#narrow/pm-with/609119-Snehith-Allamraju)
 * Emeritus Chair: [Chandan Kumar](https://pyconindia.zulipchat.com/#narrow/pm-with/232013-Chandan-Kumar-(raukadah))
-* Volunteers Manager: TBD
+* Volunteers Manager: [Shashank Kumar](https://pyconindia.zulipchat.com/#narrow/pm-with/234834-Shashank-(realslimshanky)---Volunteer-Manager)
 
 ## Communication Platform
 
@@ -42,6 +42,14 @@
   - [Priyanshu Krishnan](https://pyconindia.zulipchat.com/#narrow/pm-with/603863-Priyanshu-Krishnan)
 - Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/226092-wg.2Ftechnology
 
+### Platform
+
+- Meeting:
+- Chair: [Ananyo Maiti](https://pyconindia.zulipchat.com/#narrow/pm-with/231456-Ananya-Maiti-|-EPAM-India)
+- Shadow:
+  - [Shashank Kumar](https://pyconindia.zulipchat.com/#narrow/pm-with/234834-Shashank-(realslimshanky)---Volunteer-Manager)
+- Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/226092-wg.2Ftechnology
+
 ### Promotions/Communications
 
 - Meeting:
@@ -53,7 +61,7 @@
 ### Mentorship
 
 - Meeting:
-- Chair:
+- Chair: [Gajendra Deshpande](https://pyconindia.zulipchat.com/#narrow/pm-with/317268-Gajendra-Deshpande)
 - Shadow:
 - Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/245487-wg.2Fmentorship
 
