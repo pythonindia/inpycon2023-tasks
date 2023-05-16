@@ -10,6 +10,11 @@
 ## Conference Structure
 - TBD
 
+## Weekly Checkin Details
+* Weekly Checkin call happens every week online on Thursday @ 8:00 pm IST
+* Calendar Invite please download from [here](https://drive.google.com/file/d/1ZCv0SWPJ0fklxnpnzidX7TK4U4SMbSe_/view?usp=sharing)
+* Jitsi Link - [https://meet.jit.si/pyconindia2023-weekly](https://meet.jit.si/pyconindia2023-weekly)
+
 ## Working Groups
 
 * Conference Chair: [Sanchit Balchandani](https://pyconindia.zulipchat.com/#narrow/pm-with/231358-Sanchit-Balchandani)
