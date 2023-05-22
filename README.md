@@ -34,7 +34,7 @@
 
 ### Review
 
-- Meeting: [https://meet.jit.si/pycon_in_2023_cfp](https://meet.jit.si/pycon_in_2023_cfp) Sunday at 8PM IST
+- Meeting: [https://meet.jit.si/pycon_in_2023_cfp](https://meet.jit.si/pycon_in_2023_cfp) Sunday at 8 PM IST
 - MoM and Agenda: [Google doc](https://docs.google.com/document/d/1YpBLr9HCqh2VB7UIqr2_8ToaKvfZTdaf2VeNjqHm7NI/edit)
 - Chair: [Soumendra Kumar Sahoo](https://pyconindia.zulipchat.com/#narrow/pm-with/231777-Soumendra)
 - Shadow: TBD
@@ -103,10 +103,11 @@
 
 ### R&D (brainstorm new ideas like: poster presentation, digital swags)
 
-- Meeting:
+- Meeting: [https://meet.jit.si/pycon-india-2023-ylw](https://meet.jit.si/pycon-india-2023-ylw), Monday 7 PM IST
 - Chair: [Bhanu K](https://pyconindia.zulipchat.com/#narrow/pm-with/335077-Bhanu-K)
-- Shadow:
-- Zulip Stream:
+- Shadow: Pradhvan
+- MoM and Agenda: [Google doc](https://docs.google.com/document/d/1c8saWY4bwXSbiNB-wMgimdF9ND1Zj1CXqKkVV1qaA50/edit#heading=h.3jxrwnrh6ws0)
+- Zulip Stream: [https://pyconindia.zulipchat.com/#narrow/stream/389199-wg.2Fr.26d](https://pyconindia.zulipchat.com/#narrow/stream/389199-wg.2Fr.26d)
 
 ### Finance & Tickets
 
