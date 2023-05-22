@@ -34,9 +34,10 @@
 
 ### Review
 
-- Meeting:
-- Chair: [Soumendra](https://pyconindia.zulipchat.com/#narrow/pm-with/231777-Soumendra)
-- Shadow:
+- Meeting: [https://meet.jit.si/pycon_in_2023_cfp](https://meet.jit.si/pycon_in_2023_cfp) Sunday at 8PM IST
+- MoM and Agenda: [Google doc](https://docs.google.com/document/d/1YpBLr9HCqh2VB7UIqr2_8ToaKvfZTdaf2VeNjqHm7NI/edit)
+- Chair: [Soumendra Kumar Sahoo](https://pyconindia.zulipchat.com/#narrow/pm-with/231777-Soumendra)
+- Shadow: TBD
 - Zulip Stream: https://pyconindia.zulipchat.com/#narrow/stream/381471-wg.2Freview
 
 ### Technology
