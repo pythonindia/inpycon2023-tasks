@@ -58,7 +58,7 @@
 
 ### Promotions/Communications
 
-- Meeting:
+- Meeting: https://meet.jit.si/PyconCommunicationVolunteerMeet
 - Chair: [Bhushan Kapkar](https://pyconindia.zulipchat.com/#narrow/pm-with/608047-BHUSHAN-KAPKAR)
 - Shadow:
   - [Amritha Madam](https://pyconindia.zulipchat.com/#narrow/pm-with/608219-Amritha-Madam)
